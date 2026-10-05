@@ -20,7 +20,7 @@ Modelos de texto de evolução clínica para preencher e copiar no prontuário e
 
 Pronto: aparece o atalho **Modelos de Evolução** na área de trabalho.
 
-**Se aparecer "O Windows protegeu o computador"**: clique em **Mais informações** e depois em **Executar assim mesmo**. O aviso aparece porque o arquivo veio da internet; o instalador só copia o app para `C:\ModelosEvolucao` e cria o atalho, sem instalar nada no sistema. Se o computador da instituição bloquear, peça ao responsável pela informática.
+**Se aparecer "O Windows protegeu o computador"**: clique em **Mais informações** e depois em **Executar assim mesmo**. O aviso aparece porque o arquivo veio da internet; o instalador só copia o app para `C:\ModelosEvolucao` e cria o atalho, sem instalar nada no sistema. Se o computador  bloquear, peça ao responsável pela informática.
 
 ## Como atualizar
 
